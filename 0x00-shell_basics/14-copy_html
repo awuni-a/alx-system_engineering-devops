@@ -1,3 +1,5 @@
 #!/bin/bash
 cp -rwa*.html
 cp -rwa *.html
+cp -rwa *.html
+cp -rua *.html
